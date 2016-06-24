@@ -1,0 +1,9 @@
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\bin\Debug\Project_Manager.exe.config
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\bin\Debug\Project_Manager.exe
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\bin\Debug\Project_Manager.pdb
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\obj\Debug\Project_Manager.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\obj\Debug\Project_Manager.exe
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\obj\Debug\Project_Manager.pdb
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\obj\Debug\Project_Manager.MainForm.resources
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\obj\Debug\Project_Manager.csproj.GenerateResource.Cache
+C:\Users\Timo\Documents\SharpDevelop Projects\Project Manager\Project_Manager\obj\Debug\Project_Manager.Project_Creator.resources
